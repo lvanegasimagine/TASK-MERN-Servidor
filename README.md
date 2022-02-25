@@ -1,4 +1,5 @@
 # TASK-MERN-Servidor
+nombre archivo: variables.env
 DB_MONGO=mongodb+srv://usuario:contraseña@host_atlas/BD_NAME?retryWrites=true&w=majority
 SECRET=lo que tu quieras poner
 
